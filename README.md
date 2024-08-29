@@ -43,44 +43,16 @@ Here are some of the tools and technologies I've been working with:
 
 ---
 
-## 🌟 Projects
-
-- **Project Name:** [Short Description]
-  - [GitHub Repo URL](https://github.com/yourusername/projectname)
-  - [Live Demo URL](https://yourprojectdemo.com)
-
-- **Another Project Name:** [Short Description]
-  - [GitHub Repo URL](https://github.com/yourusername/anotherproject)
-  - [Live Demo URL](https://youranotherprojectdemo.com)
-
----
-
-## 📚 Courses & Certifications
-
-<!-- Optional: List relevant courses or certifications you’ve completed -->
-- [Course or Certification Name](https://linktocertification.com) - Issued by [Issuer Name]
-- [Another Course or Certification Name](https://linktocertification.com) - Issued by [Issuer Name]
-
----
-
-<!--
 ## 🎯 Goals
 
 - Short-Term:
-  - Master the basics of machine learning
-  - Develop a full-stack web application
-  - Reach conversational fluency in Chinese and Finnish
+  - Maintain a high GPA in my studies
+  - Build my personal portfolio with various projects
+  - Get production quality work experience
 
 - Long-Term:
-  - Specialize in a domain within software engineering
-  - Contribute to open-source AI projects
-  - Work in a multicultural and multilingual environment
+  - Choose a specialisation in software development
+  - Get a stable job in the field
+  - Reach conversational fluency in Chinese and Finnish
 
 ---
-
--->
-
-## 📝 Blog & Writing
-
-<!-- Optional: Add links to your blog or articles -->
-- [Your Blog Name](https://yourblog.com) - Descr
