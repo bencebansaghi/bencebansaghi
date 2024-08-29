@@ -10,16 +10,13 @@ I am a student currently pursuing a degree in Software Engineering. Right now, I
   - Chinese 🇨🇳 and Finnish 🇫🇮 languages
 
 - 🔭 I’m interested in:
-  - Artificial Intelligence and Data Science
-  - Full-Stack Development
-  - Cross-cultural communication and language learning
+  - Back-End Development
+  - Cloud Engineering
+  - Application Development
 
 - 🤔 I’m looking for help with:
-  - [Specific area you want guidance on or collaboration]
+  - Finding job experience in the form of an internship or junior position
 
-- 💬 Ask me about:
-  - My learning journey in machine learning and web development
-  - How to balance technical studies with language learning
 
 ---
 
@@ -27,33 +24,27 @@ I am a student currently pursuing a degree in Software Engineering. Right now, I
 
 Here are some of the tools and technologies I've been working with:
 
-- **Programming Languages:** [Languages you're proficient in, e.g., Python, JavaScript, etc.]
-- **Web Development:** [Frameworks/technologies, e.g., React, Node.js, etc.]
-- **Machine Learning:** [Libraries/tools, e.g., TensorFlow, scikit-learn, etc.]
-- **Databases:** [e.g., MySQL, MongoDB, etc.]
-- **Other Tools:** [e.g., Git, Docker, etc.]
-
----
-
-## 📈 GitHub Stats
-
-<!-- Optional: Include your GitHub stats here using GitHub readme stats or other tools -->
-<!-- Example: -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+- **Programming Languages:** Python, JavaScript, Java, C, R
+    - *learning:* GO
+- **Databases:**
+  - SQL (MySQL, PostgreSQL)
+  - *learning:* NoSQL (MongoDB)
+- **Web Development:** Pure HTML, CSS, and JavaScript
+  - *learning:* React, Node.js, Express
+- **Machine Learning:** scikit learn
+- **Other Tools:** Git, Linux, AWS
 
 ---
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/yourprofile)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourhandle)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- [LinkedIn](https://linkedin.com/in/bencebansaghi)
+- [Personal email](mailto:bansaghi.bence@gmail.com)
 
 ---
 
 ## 🌟 Projects
 
-<!-- Optional: List some of your significant projects -->
 - **Project Name:** [Short Description]
   - [GitHub Repo URL](https://github.com/yourusername/projectname)
   - [Live Demo URL](https://yourprojectdemo.com)
@@ -72,9 +63,9 @@ Here are some of the tools and technologies I've been working with:
 
 ---
 
+<!--
 ## 🎯 Goals
 
-<!-- Optional: List some of your short-term or long-term goals -->
 - Short-Term:
   - Master the basics of machine learning
   - Develop a full-stack web application
@@ -86,6 +77,8 @@ Here are some of the tools and technologies I've been working with:
   - Work in a multicultural and multilingual environment
 
 ---
+
+-->
 
 ## 📝 Blog & Writing
 
