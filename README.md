@@ -29,8 +29,8 @@ Here are some of the tools and technologies I've been working with:
 - **Databases:**
   - SQL (MySQL, PostgreSQL)
   - *learning:* NoSQL (MongoDB)
-- **Web Development:** Pure HTML, CSS, and JavaScript
-  - *learning:* React, Node.js, Express
+- **Web Development:** Pure HTML, CSS, Node.js
+  - *learning:* React
 - **Machine Learning:** scikit learn
 - **Other Tools:** Git, Linux, AWS
 
